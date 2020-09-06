@@ -1,5 +1,8 @@
 ---
-title: "블로그 첫 글"
-date: 2020-09-06 16:00:00
+title: 블로그 첫 글
+date: {}
 categories: etc
+published: true
 ---
+hello world!
+prose.io로 테스트 해 봅니다.
